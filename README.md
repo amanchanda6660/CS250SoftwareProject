@@ -1,2 +1,2 @@
 # CS250SoftwareProject
-cs 250 project repository 
+CS250 Group 12 Project Repository 
